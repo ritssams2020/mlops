@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ritesh/new_MLOPs/mlruns/238336636659771096/8afd1d6f138344008cb3c2d465e4f786/artifacts
+end_time: 1747832558965
+entry_point_name: ''
+experiment_id: '238336636659771096'
+lifecycle_stage: active
+run_id: 8afd1d6f138344008cb3c2d465e4f786
+run_name: receptive-sloth-116
+run_uuid: 8afd1d6f138344008cb3c2d465e4f786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747832558930
+status: 3
+tags: []
+user_id: ritesh

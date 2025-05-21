@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ritesh/new_MLOPs/mlruns/238336636659771096/64f192b199b94830ad8f40011639a594/artifacts
+end_time: 1747832995119
+entry_point_name: ''
+experiment_id: '238336636659771096'
+lifecycle_stage: active
+run_id: 64f192b199b94830ad8f40011639a594
+run_name: adaptable-shad-524
+run_uuid: 64f192b199b94830ad8f40011639a594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747832995078
+status: 3
+tags: []
+user_id: ritesh

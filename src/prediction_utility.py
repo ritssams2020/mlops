@@ -1,6 +1,17 @@
 #prediction_utility.py
 import joblib
 import numpy as np
+import os
+from dotenv import load_dotenv
+import json
+
+load_dotenv()
+
+env = os.getenv("ENVIRONMENT")
+config_file = f"config/{env.lower()}_config.json"
+
+with open(config_file, "r") as f:
+        config = json.load(f)   
 
 class IrisPredictor:
     def __init__(self, model_path):

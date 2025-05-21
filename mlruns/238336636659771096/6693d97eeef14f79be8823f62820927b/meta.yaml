@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ritesh/new_MLOPs/mlruns/238336636659771096/6693d97eeef14f79be8823f62820927b/artifacts
+end_time: 1747833461659
+entry_point_name: ''
+experiment_id: '238336636659771096'
+lifecycle_stage: active
+run_id: 6693d97eeef14f79be8823f62820927b
+run_name: puzzled-bug-345
+run_uuid: 6693d97eeef14f79be8823f62820927b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747833459165
+status: 3
+tags: []
+user_id: ritesh

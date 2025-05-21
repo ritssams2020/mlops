@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ritesh/new_MLOPs/mlruns/238336636659771096/5e679eafbf3a4c3abc3800dfe64df939/artifacts
+end_time: 1747833360159
+entry_point_name: ''
+experiment_id: '238336636659771096'
+lifecycle_stage: active
+run_id: 5e679eafbf3a4c3abc3800dfe64df939
+run_name: casual-whale-829
+run_uuid: 5e679eafbf3a4c3abc3800dfe64df939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747833357731
+status: 3
+tags: []
+user_id: ritesh
