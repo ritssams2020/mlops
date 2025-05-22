@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747902064874
+current_stage: Archived
+description: null
+last_updated_timestamp: 1747911104675
+name: iris_classifier_production
+run_id: 7756d4285ee340f6a07eaee4a07bf2aa
+run_link: null
+source: models:/iris_classifier_staging/1
+status: READY
+status_message: null
+storage_location: file:///home/ritesh/new_MLOPs/mlruns/238336636659771096/7756d4285ee340f6a07eaee4a07bf2aa/artifacts/model
+user_id: null
+version: 8

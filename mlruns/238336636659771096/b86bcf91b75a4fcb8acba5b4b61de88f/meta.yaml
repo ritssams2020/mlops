@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ritesh/new_MLOPs/mlruns/238336636659771096/b86bcf91b75a4fcb8acba5b4b61de88f/artifacts
+end_time: 1747898592237
+entry_point_name: ''
+experiment_id: '238336636659771096'
+lifecycle_stage: active
+run_id: b86bcf91b75a4fcb8acba5b4b61de88f
+run_name: adventurous-crab-827
+run_uuid: b86bcf91b75a4fcb8acba5b4b61de88f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747898589565
+status: 3
+tags: []
+user_id: ritesh

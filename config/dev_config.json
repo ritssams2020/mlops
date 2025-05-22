@@ -1,1 +1,6 @@
-{"mlflow_tracking_uri": "http://localhost:5000"}
+{
+    "mlflow_tracking_uri": "http://localhost:5000",
+    "experiment_name": "Iris Classifier",
+    "model_name": "iris_classifier_dev"
+}
+

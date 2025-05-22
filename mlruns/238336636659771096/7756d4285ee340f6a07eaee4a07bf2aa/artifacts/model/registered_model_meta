@@ -1,0 +1,2 @@
+model_name: iris_classifier_staging
+model_version: '1'

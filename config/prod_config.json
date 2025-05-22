@@ -1,3 +1,5 @@
 {
-	    "mlflow_tracking_uri": "https://prod-mlflow.example.com"
+    "mlflow_tracking_uri": "http://localhost:5000",
+    "experiment_name": "Iris Classifier",
+    "model_name": "iris_classifier_production"
 }
